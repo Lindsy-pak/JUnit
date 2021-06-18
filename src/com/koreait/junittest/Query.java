@@ -16,6 +16,7 @@ public class Query {
 		String url = "jdbc:mysql://localhost:3308/junit";
 		String user = "root";
 		String pw = "koreait";
+		// test
 		
 		try {			
 			Class.forName("com.mysql.cj.jdbc.Driver");
